@@ -183,6 +183,35 @@
         ],
         "parent": ""
       },
+       "C_CSPlayerPawnBase": {
+        "fields": {
+          "m_bDeferStartMusicOnWarmup": 5676,
+          "m_bFlashBuildUp": 5640,
+          "m_bFlashDspHasBeenCleared": 5641,
+          "m_bFlashScreenshotHasBeenGrabbed": 5642,
+          "m_bHasMovedSinceSpawn": 5608,
+          "m_fNextThinkPushAway": 5660,
+          "m_flClientDeathTime": 5624,
+          "m_flClientHealthFadeChangeTimestamp": 5652,
+          "m_flCurrentMusicStartTime": 5668,
+          "m_flFlashBangTime": 5628,
+          "m_flFlashDuration": 5648,
+          "m_flFlashMaxAlpha": 5644,
+          "m_flFlashOverlayAlpha": 5636,
+          "m_flFlashScreenshotAlpha": 5632,
+          "m_flLastSmokeAge": 5684,
+          "m_flLastSmokeOverlayAlpha": 5680,
+          "m_flLastSpawnTimeIndex": 5612,
+          "m_flMusicRoundStartTime": 5672,
+          "m_flProgressBarStartTime": 5620,
+          "m_hOriginalController": 5728,
+          "m_iPlayerState": 5604,
+          "m_iProgressBarDuration": 5616,
+          "m_nClientHealthFadeParityValue": 5656,
+          "m_pPingServices": 5592,
+          "m_previousPlayerState": 5600,
+          "m_vLastSmokeOverlayColor": 5688
+        },
       "CAttributeList": {
         "fields": {
           "m_Attributes": 8,
